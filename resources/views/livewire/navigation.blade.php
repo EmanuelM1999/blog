@@ -34,7 +34,7 @@
                 </button>
             </div>
             <div class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
-                <a href={{ route('welcome') }} class="flex-shrink-0 flex items-center">
+                <a href={{ route('posts.index') }} class="flex-shrink-0 flex items-center">
                     <img class="block lg:hidden h-8 w-auto"
                         src="https://tailwindui.com/img/logos/workflow-mark-indigo-500.svg" alt="Workflow">
                     <img class="hidden lg:block h-8 w-auto"
